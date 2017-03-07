@@ -1,1 +1,1 @@
-学习Android中Camera2的API
+这些Demo是用来学习Android Camera2 API的。
